@@ -10,13 +10,13 @@ categories = [
 
 ​    "Centos",
 
-​     "Ubuntu",
+​     "Ubuntu"
 
 ]
 tags = [
     "Linux命令",
 
-​    "Vim编译器",
+​    "Vim编译器"
 
 ]
 image = "the-creative-exchange-d2zvqp3fpro-unsplash.jpg"
