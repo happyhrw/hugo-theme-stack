@@ -569,7 +569,7 @@ yum reinstall <软件包名> -y 重新安装指定的软件包。
 yum clean clean 清除yum缓存。
 ```
 
-####  配置本地yum源
+### 配置本地yum源
 
 ```
 使用远程工具将CentOS的ISO文件上传到/etc/yum.repos.d/
