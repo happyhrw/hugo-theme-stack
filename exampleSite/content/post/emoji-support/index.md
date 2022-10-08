@@ -1,23 +1,10 @@
 +++
 author = "Trick"
-title = "Linux 命令大全"
-date = "2022-10-06"
-description = "Linux命令记不住？"
-categories = [
-    "Linux命令",
-
-​    "Vim编译器",
-
-​    "Centos",
-
-​     "Ubuntu"
-
-]
+title = "Linux 笔记"
+date = "2022-10-08"
+description = "Linux常用命令集"
 tags = [
-    "Linux命令",
-
-​    "Vim编译器"
-
+    "Linux"
 ]
 image = "the-creative-exchange-d2zvqp3fpro-unsplash.jpg"
 
