@@ -39,21 +39,21 @@ tags = [
 
    2.数据处理/信息管理    --最广泛的应用     
 
-​         电子数据处理  （<font color="red">**EDP**</font>）
+​         电子数据处理  （<font color="red">EDP</font>）
 
-​         决策支持系统   （<font color="red">**DSS**</font>）
+​         决策支持系统   （<font color="red">DSS</font>）
 
-​         管理信息系统    （<font color="red">**MIS**</font>）
+​         管理信息系统    （<font color="red">MIS</font>）
 
-3. 实时控制 /过程控制
+   3.实时控制 /过程控制
 
    4.计算机辅助技术
 
-​        计算机辅助设计 （<font color="red">**CAD**</font>）     计算机集成制造系统 （<font color="red">**CIMS**</font>） CAD+CAM    
+​        计算机辅助设计 （<font color="red">CAD</font>）     计算机集成制造系统 （<font color="red">CIMS</font>） CAD+CAM    
 
-​       计算机辅助制造 （<font color="red">**CAM**</font>）        
+​       计算机辅助制造 （<font color="red">CAM</font>）        
 
-​       计算机辅助教学  （<font color="red">**CAI**</font>）
+​       计算机辅助教学  （<font color="red">CAI</font>）
 
    5.网络通信
 
@@ -61,7 +61,7 @@ tags = [
 
    6.模拟系统
 
-   7.人工智能    （<font color="red">**AI**</font>）
+   7.人工智能    （<font color="red">AI</font>）
 
    8.娱乐，游戏
 
